@@ -1,0 +1,45 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS specific
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Firebase/Google Services
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Other
+*.log
+pubspec.lock
